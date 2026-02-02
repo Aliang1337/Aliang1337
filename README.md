@@ -41,9 +41,9 @@ width="100%"  height="2">
   </table>
 
   
-### 🧰 语言工具
+### 💻 技能与工具 | Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws&theme=light)](https://github.com/HylAa)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,obsidian,ansible,prometheus,wordpress,aws,python,java,javascript,typescript,react,angular,nodejs,deno,spring,django,flask,fastapi,pytorch,tensorflow,keras,scikitlearn,huggingface,openai,langchain,bert,gpt,stable-diffusion,midjourney,webassembly,rust,azure,googlecloud,firebase,terraform,datadog,argocd,selenium,postman,blender,figma,canva,flutter,kotlin,swift,arduino,raspberrypi,graphql,kafka,rabbitmq&theme=light)](https://github.com/HylAa)
 
 
 </div>
