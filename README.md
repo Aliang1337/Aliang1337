@@ -26,7 +26,7 @@ width="100%"  height="2">
       <td width="65%">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/main/dist/github-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/main/dist/github-snake.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/output/github-contribution-grid-snake.svg">
           <img width="100%" src="">
         </picture>
       </td>
