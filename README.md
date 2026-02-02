@@ -44,7 +44,3 @@ width="100%"  height="2">
 
 </div>
 
-### 🧰 语言工具
-
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws&theme=light)](https://github.com/HylAa)
-
