@@ -1,10 +1,43 @@
-### 👋 Hi there
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=LXGW+WenKai+TC&size=26&pause=500&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%81+|+Hi+there!+|+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;%F0%9F%9A%80+%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85+|+Open+Source+Contributor+|+%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E8%B2%A2%E7%8C%AE%E8%80%85">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
+  <hr>
 
+  <div style="display: flex; justify-content: space-between;">
+    <div>
+      <img src="https://count.getloli.com/get/@HylAa?theme=rule34">
+    </div>
+    <div>
+      <span>💬 中文 (Native) | English (Fluent) | 日本語 (Basic)</span><br>
+      <span>🏹 <em><strong>えぇ... うそ...!? 書いたコードがまたエラー出しちゃったよ...</strong></em></span>
+    </div>
+  </div>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HylAa&theme=github-dark&hide_border=true&area=true&bg_color=00000000&custom_title=🔥%20Activity%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HylAa&theme=github-compact&hide_border=true&area=true&bg_color=00000000&custom_title=🔥%20Activity%20Graph">
+    <img height="100%" src="">
+  </picture>
+
+  <table border="0">
+    <tr>
+      <td width="65%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/main/dist/github-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/main/dist/github-snake.svg">
+          <img width="100%" src="">
+        </picture>
+      </td>
+      <td width="35%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eldments-projects.vercel.app/api?username=HylAa&show_icons=true&include_all_commits=false&locale=en&theme=dark&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eldments-projects.vercel.app/api?username=HylAa&show_icons=true&include_all_commits=false&locale=en&theme=buefy&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
+          <img width="100%" src="">
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif"
 width="100%"  height="2">
