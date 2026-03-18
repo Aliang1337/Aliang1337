@@ -7,7 +7,7 @@ width="100%"  height="2">
 
   <div style="display: flex; justify-content: space-between;">
     <div>
-      <img src="https://count.getloli.com/get/@HylAa?theme=rule34">
+      <img src="https://count.getloli.com/get/@Aliang1337?theme=rule34">
     </div>
     <div>
       <span>💬 中文 (Native) | English (Fluent) | 日本語 (Basic)</span><br>
@@ -16,8 +16,8 @@ width="100%"  height="2">
   </div>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HylAa&theme=github-dark&hide_border=true&area=true&bg_color=00000000&custom_title=🔥%20Activity%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HylAa&theme=github-compact&hide_border=true&area=true&bg_color=00000000&custom_title=🔥%20Activity%20Graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aliang1337&theme=github-dark&hide_border=true&area=true&bg_color=00000000&custom_title=🔥%20Activity%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aliang1337&theme=github-compact&hide_border=true&area=true&bg_color=00000000&custom_title=🔥%20Activity%20Graph">
     <img height="100%" src="">
   </picture>
 
@@ -25,15 +25,15 @@ width="100%"  height="2">
     <tr>
       <td width="65%">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/main/dist/github-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HylAa/HylAa/output/github-contribution-grid-snake.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliang1337/Aliang1337/main/dist/github-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aliang1337/Aliang1337/output/github-contribution-grid-snake.svg">
           <img width="100%" src="">
         </picture>
       </td>
       <td width="35%">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eldments-projects.vercel.app/api?username=HylAa&show_icons=true&include_all_commits=false&locale=en&theme=dark&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eldments-projects.vercel.app/api?username=HylAa&show_icons=true&include_all_commits=false&locale=en&theme=buefy&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eldments-projects.vercel.app/api?username=Aliang1337&show_icons=true&include_all_commits=false&locale=en&theme=dark&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eldments-projects.vercel.app/api?username=Aliang1337&show_icons=true&include_all_commits=false&locale=en&theme=buefy&hide_border=true&bg_color=00000000&custom_title=📊%20Github%20Stats">
           <img width="100%" src="">
         </picture>
       </td>
@@ -42,7 +42,7 @@ width="100%"  height="2">
   
 ### 💻 技能与工具 | Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,js,ts,gradle,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws,python,pytorch,tensorflow,unreal&theme=light)](https://github.com/HylAa)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,js,ts,gradle,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws,python,pytorch,tensorflow,unreal&theme=light)](https://github.com/Aliang1337)
 
 </div>
 
