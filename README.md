@@ -7,7 +7,7 @@ width="100%"  height="2">
 
   <div style="display: flex; justify-content: space-between;">
     <div>
-      <img src="https://count.getloli.com/get/@Aliang1337?theme=booru-lewd">
+      <img src="https://count.getloli.com/get/@Aliang1337?theme=rule34">
     </div>
     <div>
       <span>💬 中文 (Native) | English (Fluent) | 日本語 (Basic)</span><br>
